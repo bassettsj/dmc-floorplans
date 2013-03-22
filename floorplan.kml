@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>floorplan</name>
+	<Icon>
+		<href>https://raw.github.com/bassettsj/dmc-floorplans/gh-pages/dmc_map.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>42.33901954621238</north>
+		<south>42.33787565829378</south>
+		<east>-71.0872742991646</east>
+		<west>-71.08883913990273</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
